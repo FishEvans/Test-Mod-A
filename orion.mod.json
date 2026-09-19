@@ -2,16 +2,16 @@
   "manifestVersion": 1,
   "id": "author.test-mod-a",
   "name": "Test Mod A",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Direct-overlay Artemis Cosmos mod package for Test Mod A.",
   "authors": [
     {
-      "name": "Mod author"
+      "name": "FishTest"
     }
   ],
   "game": {
     "id": "artemis-cosmos",
-    "versionRange": "*",
+    "versionRange": ">=1.3.0",
     "compatibilityNote": "Created from a preserved direct-overlay data layout. Orion has not independently verified the declared game-version range."
   },
   "content": [
